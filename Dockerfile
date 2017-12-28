@@ -1,4 +1,4 @@
-FROM knsit/gradle:4.4.0-jdk8-alpine
+FROM knsit/gradle:4.4.1-jdk8-alpine
 
 LABEL maintainer="sebastian.kurfer@kns-it.de"
 
